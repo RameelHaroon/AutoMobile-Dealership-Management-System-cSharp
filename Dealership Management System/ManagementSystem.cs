@@ -10,8 +10,9 @@ namespace Dealership_Management_System
     {
         public void startSystem()
         {
+            bool exit = false;
             Console.WriteLine("Welcome to the System");
-            while (true) {
+            while (!exit) {
                 int option = mainMenuOptions();
                 switch (option) {
                     case 1:
@@ -19,12 +20,7 @@ namespace Dealership_Management_System
                     case 2:
                         break;
                     case 3:
-                        break;
-                    case 4:
-                        break;
-                    case 5:
-                        break;
-                    case 6:
+                        exit = true;
                         break;
                     default:
                         Console.WriteLine("Please enter correct option");
@@ -37,19 +33,15 @@ namespace Dealership_Management_System
         {
             try
             {
-                Console.WriteLine("Enter 1 to Order a new car");
-                Console.WriteLine("Enter 2 for stock inquiry");
-                Console.WriteLine("Enter 3 to register new customer");
-                Console.WriteLine("Enter 4 to search exiting customer");
-                Console.WriteLine("Enter 5 for car details");
-                Console.WriteLine("Enter 6 to exit");
+                Console.WriteLine("Enter 1: Car service");
+                Console.WriteLine("Enter 2: Customer service");
+                Console.WriteLine("Enter 3 to exit");
                 int input = Convert.ToInt32(Console.ReadLine());
                 return input;
             }
             catch (Exception ex) { 
                 Console.WriteLine(ex);
             }
-
             return -1;
         }
     }
