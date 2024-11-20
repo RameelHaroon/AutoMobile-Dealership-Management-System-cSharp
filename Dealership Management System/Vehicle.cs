@@ -22,5 +22,18 @@ namespace Dealership_Management_System
             this.registrationNumber = registrationNumber;
         }
         protected abstract void PrintDetails();
+
+        // Getter and Setters
+        public void setRegistrationNumber(string registrationNumber) { this.registrationNumber = registrationNumber; }
+        public string getRegistrationNumber() { return this.registrationNumber; }
+        public void setMake(string make) { this.make = make; }
+        public string getMake() { return this.make; }
+
+        public void setModel(string model) { this.model = model; }  
+
+        public string getModel() { return this.model; }
+
+        public void setYear(string year) { this.year = year; }
+        public string getYear() { return this.year; }
     }
 }
