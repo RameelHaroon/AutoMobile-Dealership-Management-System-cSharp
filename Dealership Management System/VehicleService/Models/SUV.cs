@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dealership_Management_System
+namespace Dealership_Management_System.VehicleService.Models
 {
     class SUV : Vehicle
     {
@@ -15,10 +15,10 @@ namespace Dealership_Management_System
         protected override void PrintDetails()
         {
             Console.WriteLine("SUV details");
-            Console.WriteLine("Make:" + this.make);
-            Console.WriteLine("Model:" + this.model);
-            Console.WriteLine("Year:" + this.year);
-            Console.WriteLine("Registration Number:" + this.registrationNumber);
+            Console.WriteLine("Make:" + make);
+            Console.WriteLine("Model:" + model);
+            Console.WriteLine("Year:" + year);
+            Console.WriteLine("Registration Number:" + registrationNumber);
         }
     }
 }

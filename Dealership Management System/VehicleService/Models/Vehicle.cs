@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dealership_Management_System
+namespace Dealership_Management_System.VehicleService.Models
 {
     abstract class Vehicle
     {
@@ -16,8 +16,8 @@ namespace Dealership_Management_System
 
         public Vehicle(string make, string model, string year, string registrationNumber)
         {
-            this.make = make;   
-            this.model = model; 
+            this.make = make;
+            this.model = model;
             this.year = year;
             this.registrationNumber = registrationNumber;
         }
@@ -25,15 +25,15 @@ namespace Dealership_Management_System
 
         // Getter and Setters
         public void setRegistrationNumber(string registrationNumber) { this.registrationNumber = registrationNumber; }
-        public string getRegistrationNumber() { return this.registrationNumber; }
+        public string getRegistrationNumber() { return registrationNumber; }
         public void setMake(string make) { this.make = make; }
-        public string getMake() { return this.make; }
+        public string getMake() { return make; }
 
-        public void setModel(string model) { this.model = model; }  
+        public void setModel(string model) { this.model = model; }
 
-        public string getModel() { return this.model; }
+        public string getModel() { return model; }
 
         public void setYear(string year) { this.year = year; }
-        public string getYear() { return this.year; }
+        public string getYear() { return year; }
     }
 }
