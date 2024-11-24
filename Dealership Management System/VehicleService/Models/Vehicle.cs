@@ -14,12 +14,14 @@ namespace Dealership_Management_System.VehicleService.Models
         protected string year { get; set; }
         protected string registrationNumber { get; set; }
 
-        public Vehicle(string make, string model, string year, string registrationNumber)
+        protected string type { get; set; }
+        public Vehicle(string make, string model, string year, string registrationNumber, string type)
         {
             this.make = make;
             this.model = model;
             this.year = year;
             this.registrationNumber = registrationNumber;
+            this.type = type;
         }
         protected abstract void PrintDetails();
 

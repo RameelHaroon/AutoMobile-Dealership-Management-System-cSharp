@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\vehicledatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\models\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\models\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\managementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:managementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|c:\\users\\rameel\\desktop\\auto\\automobile-dealership-management-system-csharp\\dealership management system\\vehicleservice\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A0CC8-B9CF-4971-8AFA-A8981504C147}|Dealership Management System.csproj|solutionrelative:vehicleservice\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,76 +38,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleService\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\VehicleService.cs",
+              "RelativeToolTip": "VehicleService\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:38:13.323Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VehicleDataStore.cs",
               "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\VehicleDataStore.cs",
               "RelativeDocumentMoniker": "VehicleService\\VehicleDataStore.cs",
-              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\VehicleDataStore.cs*",
-              "RelativeToolTip": "VehicleService\\VehicleDataStore.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\VehicleDataStore.cs",
+              "RelativeToolTip": "VehicleService\\VehicleDataStore.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAlwEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T16:24:25.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SUV.cs",
-              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\SUV.cs",
-              "RelativeDocumentMoniker": "VehicleService\\SUV.cs",
-              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\SUV.cs",
-              "RelativeToolTip": "VehicleService\\SUV.cs",
+              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Models\\SUV.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Models\\SUV.cs",
+              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Models\\SUV.cs",
+              "RelativeToolTip": "VehicleService\\Models\\SUV.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:54:09.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sedan.cs",
-              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Sedan.cs",
-              "RelativeDocumentMoniker": "VehicleService\\Sedan.cs",
-              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Sedan.cs",
-              "RelativeToolTip": "VehicleService\\Sedan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:41:51.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Vehicle.cs",
-              "RelativeDocumentMoniker": "VehicleService\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Vehicle.cs",
-              "RelativeToolTip": "VehicleService\\Vehicle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:36:01.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T16:54:09.64Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Models\\Sedan.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Models\\Sedan.cs",
+              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Models\\Sedan.cs",
+              "RelativeToolTip": "VehicleService\\Models\\Sedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:41:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\VehicleService\\Models\\Vehicle.cs",
+              "RelativeToolTip": "VehicleService\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABOwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:36:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ManagementSystem.cs",
               "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\ManagementSystem.cs",
               "RelativeDocumentMoniker": "ManagementSystem.cs",
               "ToolTip": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\ManagementSystem.cs",
               "RelativeToolTip": "ManagementSystem.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:34:47.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:34:47.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rameel\\Desktop\\Auto\\AutoMobile-Dealership-Management-System-cSharp\\Dealership Management System\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -111,8 +123,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:31:27.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:31:27.684Z"
             }
           ]
         }

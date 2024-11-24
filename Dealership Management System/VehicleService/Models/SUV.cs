@@ -8,7 +8,7 @@ namespace Dealership_Management_System.VehicleService.Models
 {
     class SUV : Vehicle
     {
-        public SUV(string make, string model, string year, string registrationNumber) : base(make, model, year, registrationNumber)
+        public SUV(string make, string model, string year, string registrationNumber, string type) : base(make, model, year, registrationNumber, type)
         {
 
         }

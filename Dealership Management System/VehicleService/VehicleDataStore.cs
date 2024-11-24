@@ -72,7 +72,7 @@ namespace Dealership_Management_System.VehicleService
             }
         }
 
-        public Vehicle getVehicle(string registrationNumber)
+        public Vehicle? getVehicle(string registrationNumber)
         {
 
             int index = vehicles.FindIndex(car => car.getRegistrationNumber() == registrationNumber);
